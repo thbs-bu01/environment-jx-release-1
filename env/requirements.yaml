@@ -10,6 +10,9 @@ dependencies:
 - name: godigital-angular
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.5
+- name: pim-product
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 1.0.0
 - name: subscription
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.27
