@@ -13,6 +13,9 @@ dependencies:
 - name: mycart
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.3
+- name: mycart-nodejs
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.2
 - name: pim-product
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.3
