@@ -18,7 +18,7 @@ dependencies:
   version: 0.0.3
 - name: pim-product
   repository: http://jenkins-x-chartmuseum:8080
-  version: 1.0.9
+  version: 1.0.10
 - name: subscription
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.27
