@@ -9,7 +9,7 @@ dependencies:
   version: 2.3.89
 - name: godigital-angular
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.17
+  version: 0.0.18
 - name: mycart
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.3
